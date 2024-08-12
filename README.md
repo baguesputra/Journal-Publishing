@@ -62,6 +62,13 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - [Appoly](https://www.appoly.co.uk)
 - [OP.GG](https://op.gg)
 
+
+Technologies Used
+
+    Laravel: A powerful PHP framework used for building robust and scalable web applications.
+    JavaScript: Enhances interactivity and dynamic content on the web pages.
+    CSS: Styles the application for a better user experience and visual presentation.
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
