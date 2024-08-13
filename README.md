@@ -30,4 +30,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/publishing-journal.git
+   git clone https://github.com/baguesputra/Journal-Publishing.git
